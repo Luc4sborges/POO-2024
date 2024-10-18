@@ -31,4 +31,7 @@ a) Acredito que sim, é importante associar uma pessoa como o titular da conta p
 b) Não, podemos deixar apenas um atributo (pessoa), e adicionar as determinadas contas a ele, ja que as contas tendem a ter as mesmas características.
 
 Questão 5
+Biblioteca, Calendário acadêmico, Boletim, Frequência e Horários.
+
+Questão 6
 
