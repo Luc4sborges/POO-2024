@@ -1,0 +1,7 @@
+@startuml Questão8
+class Circulo {
+    - raio: number
+    + calcularArea(): number
+    + calcularPerimetro(): number
+}
+@enduml
