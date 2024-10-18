@@ -34,4 +34,83 @@ Questão 5
 Biblioteca, Calendário acadêmico, Boletim, Frequência e Horários.
 
 Questão 6
+Objetos: Time da casa, Time visitante, Estádio, Jogador, Árbitro, Placar
+
+Time da Casa
+Atributos:
+nome
+listaDeJogadores
+treinador
+pontuacao
+
+Métodos:
+adicionarJogador()
+removerJogador()
+substituirJogador()
+marcarGol()
+
+Time Visitante
+Atributos:
+nome
+listaDeJogadores
+treinador
+pontuacao
+
+Métodos:
+adicionarJogador()
+removerJogador()
+substituirJogador()
+marcarGol()
+
+Estádio:
+Atributos:
+nome
+cidade
+capacidade
+
+Métodos:
+abrirPortoes()
+fecharPortoes()
+verificarCondicoes()
+
+Jogador
+Atributos:
+nome
+número
+posição
+altura
+peso
+time
+
+Métodos:
+chutar()
+passarBola()
+driblar()
+defender()
+cabecear()
+
+Árbitro
+Atributos:
+nome
+experiência
+certificação
+
+Métodos:
+iniciarJogo()
+encerrarJogo()
+aplicarFalta()
+mostrarCartao()
+
+Placar
+Atributos:
+pontuacaoTimeCasa
+pontuacaoTimeVisitante
+
+Métodos:
+atualizarPontuacao()
+
+
+
+
+
 
