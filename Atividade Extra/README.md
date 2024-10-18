@@ -14,3 +14,21 @@ Exemplo:
 Classe: Jogador
 Atributos:nome, posição, número, time
 Métodos: chutar() passar() defender()
+
+Questão 3: 
+Cpf
+Atributo                	Sistema em que não é importante	               Sistema em que é moderadamente importante	                Sistema em que é essencial
+CPF       	                 Sistema de rede social	                         Cadastro em loja virtual	                                  Banco, Governo
+Histórico de saúde	         Aplicativo de rede social	                     Sistema de seguro	                                        Hospital, Clínica médica
+Quantidade de seguidores	   Sistema bancário	                               Sistema de compras online	                                Plataforma de mídia social
+Habilidade destra	           Sistema de contabilidade	                       Cadastro de voluntários	                                  Seleção de atletas para time esportivo
+Endereço	                   Fórum online anônimo                          	 Sistema de entrega de refeições	                          Serviço de correios
+Saldo em conta               Plataforma de jogos online	                     Aplicativo de planejamento financeiro	                    Banco, Sistema de crédito
+Etnia	                       Sistema de comércio eletrônico	                 Estudos sociodemográficos	                                Políticas de ação afirmativa
+
+Questão 4
+a) Acredito que sim, é importante associar uma pessoa como o titular da conta pois vai facilitar o processo de vincular as transações a uma pessoa específica.
+b) Não, podemos deixar apenas um atributo (pessoa), e adicionar as determinadas contas a ele, ja que as contas tendem a ter as mesmas características.
+
+Questão 5
+
