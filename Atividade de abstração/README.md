@@ -55,45 +55,27 @@ Personagem
 Jogador
 Pontos de vida
 Força
-
 Habilidades especiais
-
 Inimigos
-
-NPCs (personagens não jogáveis)
-
+NPCs 
 Nível
 
-Itens
 
-Inventário
+
 
 Características das Entidades/Substantivos/Classificações:
 Personagem: atributos como pontos de vida, força, habilidades especiais.
-
 Jogador: controla o personagem.
-
 Pontos de vida: medida da saúde do personagem.
-
-Força: capacidade de ataque.
-
-Habilidades especiais: usadas em combates estratégicos.
-
+Força: dano por ataque.
+Habilidades especiais: Golpes mais poderosos.
 Inimigos: oponentes no jogo.
-
 NPCs: vendedores, guias.
-
 Nível: progresso do personagem.
-
-Itens: adquiridos pelo personagem.
-
 Inventário: gerenciado pelo jogador.
 
 Comportamentos das Entidades/Substantivos/Classificações:
 Personagem: atacar inimigos, usar habilidades, subir de nível, interagir com NPCs.
-
 Jogador: gerenciar pontos de vida, decidir habilidades em combates, gerenciar inventário.
-
 NPCs: interagir com o personagem.
-
 Inventário: adicionar e remover itens.
