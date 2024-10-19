@@ -8,19 +8,16 @@ Transações
 Depósitos
 Saques
 
-
 Características das Entidades/Substantivos/Classificações:
 Conta bancária: associada a um cliente, saldo, tipo de conta, número da conta.
 Cliente: proprietário da conta.
 Saldo: valor atualizado em tempo real.
 Transações: registro das operações (depósitos, saques).
 
-
 Comportamentos das Entidades/Substantivos/Classificações:
 Conta bancária: adicionar novas contas, excluir contas, buscar contas.
 Saldo: atualizar em tempo real.
 Transações: registrar todas as transações.
-
 
 2. Rede Social
 Entidades/Substantivos/Classificações mais relevantes:
@@ -31,7 +28,6 @@ Fotos
 Vídeos
 Curtidas
 Comentários
-
 
 Características das Entidades/Substantivos/Classificações:
 Usuário: criador das postagens, pode editar, apagar ou compartilhar postagens.
@@ -48,7 +44,6 @@ Postagens: receber curtidas e comentários
 Curtidas: adicionadas ou removidas pelos usuários.
 Comentários: adicionados ou removidos pelos usuários.
 
-
 3. Jogo de RPG
 Entidades/Substantivos/Classificações mais relevantes:
 Personagem
@@ -59,9 +54,6 @@ Habilidades especiais
 Inimigos
 NPCs 
 Nível
-
-
-
 
 Características das Entidades/Substantivos/Classificações:
 Personagem: atributos como pontos de vida, força, habilidades especiais.
