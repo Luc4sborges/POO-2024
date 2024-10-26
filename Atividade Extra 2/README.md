@@ -15,4 +15,4 @@
    Operador de instanciação (3)
    Objeto (1)
 
-5) 
+
