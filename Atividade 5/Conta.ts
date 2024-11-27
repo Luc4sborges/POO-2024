@@ -1,22 +1,20 @@
-class Conta {
+export class Conta {
+    idConta: number;
     numero: string;
     saldo: number;
-    idConta: number;
-    cliente: Cliente;
 
-    constructor(numero: string, saldo: number, idConta: number, cliente: Cliente) {
+    constructor(numero: string, saldo: number) {
+        this.idConta = Math.floor(Math.random() * 1000); // Supondo que cada conta tenha um ID único gerado aleatoriamente
         this.numero = numero;
         this.saldo = saldo;
-        this.idConta = idConta
-        this.cliente = cliente
     }
 
     sacar(valor: number): void {
-        this.saldo = this.saldo - valor;
+        this.saldo -= valor;
     }
 
     depositar(valor: number): void {
-        this.saldo = this.saldo + valor;
+        this.saldo += valor;
     }
 
     consultarSaldo(): number {
@@ -28,3 +26,4 @@ class Conta {
         contaDestino.depositar(valor);
     }
 }
+
